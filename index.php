@@ -15,7 +15,7 @@
       <div class="row">
         <div class="col-6">
          <!--<form id="myform" action="javascript:void(null);" onsubmit="sendform()">-->
-           <form id="myform" action="http://kotofoto.test/api.php" method="post">
+           <form id="myform" action="api.php" method="post">
              <div class="mb-3">
                <div class="input-group">
                  <p>
